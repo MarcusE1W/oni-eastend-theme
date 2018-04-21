@@ -1,0 +1,79 @@
+{
+    "name": "Eastend",
+    "baseVimTheme": "solarized8_light",
+    "colors": {
+        "parked": "#444040 ui-background",
+        "parked": "#d9d7ca ui-text",
+        "parked": "#FFD08C ui-text-selected",
+
+        "//": "comment",
+        "background": "#444040",
+        "foreground": "#d9d7ca",
+
+        "editor.background": "#f9f2e0",
+        "editor.foreground": "#444040",
+
+        "tabs.background": "#444040",
+        "tabs.foreground": "#d9d7ca",
+
+        "sidebar.background": "#444040",
+        "sidebar.foreground": "#d9d7ca",
+        "sidebar.active.background": "#444040",
+        "sidebar.selection.border": "#d9d7ca",
+
+        "highlight.mode.insert.background": "#98c379",
+        "highlight.mode.insert.foreground": "#444040",
+
+        "highlight.mode.normal.background": "#61afef",
+        "highlight.mode.normal.foreground": "#444040",
+
+        "highlight.mode.operator.background": "#d19a66",
+        "highlight.mode.operator.foreground": "#444040",
+
+        "highlight.mode.visual.background": "#56b6c2",
+        "highlight.mode.visual.foreground": "#444040",
+
+
+    "//": "Tool tip is used for some contextual information",
+    "//": "like hover, as well as for rename",
+    "toolTip.background": "#444040",
+    "toolTip.foreground": "#d9d7ca",
+    "toolTip.border": "#56b6c2",
+
+    "//": "User coloring options for the hover menu",
+    "editor.hover.title.background": "#444040",
+    "editor.hover.title.foreground": "#d9d7ca",
+    "editor.hover.border": "#56b6c2",
+    "editor.hover.contents.background": "#444040",
+    "editor.hover.contents.foreground": "#d9d7ca",
+    "editor.hover.contents.codeblock.background": "#444040",
+    "editor.hover.contents.codeblock.foreground": "#d9d7ca",
+
+    "//": "Context menu is used for completion, refactoring",
+    "contextMenu.background": "#444040",
+    "contextMenu.foreground": "#d9d7ca",
+    "contextMenu.border": "#56b6c2",
+    "contextMenu.highlight": "#56b6c2",
+
+    "//": "Menu is used for the popup menu",
+    "menu.background": "#444040",
+    "menu.foreground": "#d9d7ca",
+    "menu.border": "#56b6c2",
+    "menu.highlight": "#56b6c2",
+
+    "statusBar.background": "#444040",
+    "statusBar.foreground": "#d9d7ca",
+
+    "title.background": "#444040",
+    "title.foreground": "#d9d7ca",
+
+    "fileExplorer.background": "#444040",
+    "fileExplorer.foreground": "#d9d7ca",
+    "fileExplorer.selection.background": "#444040",
+    "fileExplorer.selection.foreground": "#d9d7ca",
+    "fileExplorer.cursor.background": "#444040",
+    "fileExplorer.cursor.foreground": "#d9d7ca",
+
+    "hidden": "editor.tokenColors: Tokend_etc"
+    }
+}

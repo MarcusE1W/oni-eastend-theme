@@ -1,0 +1,21 @@
+{
+    "name": "eastend",
+    "version": "0.0.1",
+    "description": "East End - Cafe latte theme for Oni",
+    "engines": {
+        "oni": ">0.2.18"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "name": "Eastend",
+                "path": "eastend.json"
+            }
+        ]
+    },
+    "author": "",
+    "license": "MIT"
+}

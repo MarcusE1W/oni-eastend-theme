@@ -1,0 +1,58 @@
+{
+    "name": "Eastend",
+    "baseVimTheme": "onedark",
+    "colors": {
+
+        "parked": "#444040 ui-background",
+        "parked": "#d9d7ca ui-text",
+        "parked": "#FFD08C ui-text-selected",
+        "parked": "#f9f2e0 editor background",
+
+        "//": "Frame",
+        "background": "#444040",
+        "foreground": "#d9d7ca",
+
+        "title.background": "#444040",
+        "title.foreground": "#d9d7ca",
+        
+        "//": "Explorer ",
+        "editor.background": "#444040",
+        "editor.foreground": "#d9d7ca",
+
+        "tabs.background": "#282C34",
+        "tabs.foreground": "#ABB3BF",
+
+        "toolTip.background": "#282C34",
+        "toolTip.foreground": "#ABB2BF",
+        "toolTip.border": "#505050",
+
+        "menu.background": "#282C34",
+        "menu.foreground": "#ABB2BF",
+        "menu.border": "#505050",
+
+        "contextMenu.background": "#282C34",
+        "contextMenu.foreground": "#ABB2BF",
+        "contextMenu.border": "#505050",
+        "contextMenu.highlight": "#3F4652",
+
+        "sidebar.background": "#1E2127",
+        "sidebar.foreground": "#ABB2BF",
+        "sidebar.active.background": "#282C34",
+        "sidebar.selection.border": "#61afef",
+
+        "statusBar.background": "#282828",
+        "statusBar.foreground": "#c8c8c8",
+
+        "highlight.mode.insert.background": "#98c379",
+        "highlight.mode.insert.foreground": "#282c34",
+
+        "highlight.mode.normal.background": "#61afef",
+        "highlight.mode.normal.foreground": "#282c34",
+
+        "highlight.mode.operator.background": "#d19a66",
+        "highlight.mode.operator.foreground": "#282c34",
+
+        "highlight.mode.visual.background": "#56b6c2",
+        "highlight.mode.visual.foreground": "#282c34"
+    }
+}
