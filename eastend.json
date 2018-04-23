@@ -1,12 +1,15 @@
 {
     "name": "Eastend",
-    "baseVimTheme": "onedark",
+    "baseVimTheme": "seagull",
+    "baseVimBackground": "light",
     "colors": {
 
         "parked": "#444040 ui-background",
         "parked": "#d9d7ca ui-text",
         "parked": "#FFD08C ui-text-selected",
+        "parked": "#5c5757 tab active",
         "parked": "#f9f2e0 editor background",
+        "parked": "#ed73ec pink",
 
         "//": "Frame",
         "background": "#444040",
@@ -19,7 +22,7 @@
         "editor.background": "#444040",
         "editor.foreground": "#d9d7ca",
 
-        "tabs.background": "#282C34",
+        "tabs.background": "#5c5757",
         "tabs.foreground": "#ABB3BF",
 
         "toolTip.background": "#282C34",
@@ -35,12 +38,12 @@
         "contextMenu.border": "#505050",
         "contextMenu.highlight": "#3F4652",
 
-        "sidebar.background": "#1E2127",
+        "sidebar.background": "#ed73ec",
         "sidebar.foreground": "#ABB2BF",
         "sidebar.active.background": "#282C34",
         "sidebar.selection.border": "#61afef",
 
-        "statusBar.background": "#282828",
+        "statusBar.background": "#ed73ec",
         "statusBar.foreground": "#c8c8c8",
 
         "highlight.mode.insert.background": "#98c379",
