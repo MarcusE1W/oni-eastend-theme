@@ -6,7 +6,7 @@ endif
 
 let colors_name = 'eastendvim'
 
-hi Normal                                  cterm=NONE  ctermfg=11  ctermbg=15  guifg=#6d767d  guibg=#ffffff  gui=NONE
+hi Normal                                  cterm=NONE  ctermfg=11  ctermbg=15  guifg=#444040  guibg=#f9f2e0  gui=NONE
 
 set background=light
 

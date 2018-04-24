@@ -1,6 +1,6 @@
 {
     "name": "Eastend",
-    "baseVimTheme": "seagull",
+    "baseVimTheme": "eastend-vim",
     "baseVimBackground": "light",
     "colors": {
 
@@ -23,7 +23,7 @@
         "editor.foreground": "#d9d7ca",
 
         "tabs.background": "#5c5757",
-        "tabs.foreground": "#ABB3BF",
+        "tabs.foreground": "#d9d7ca",
 
         "toolTip.background": "#282C34",
         "toolTip.foreground": "#ABB2BF",
