@@ -22,6 +22,8 @@
         "editor.background": "#444040",
         "editor.foreground": "#d9d7ca",
 
+
+        "//": "Tabs",
         "tabs.background": "#5c5757",
         "tabs.foreground": "#d9d7ca",
 
@@ -29,20 +31,26 @@
         "toolTip.foreground": "#ABB2BF",
         "toolTip.border": "#505050",
 
-        "menu.background": "#282C34",
-        "menu.foreground": "#ABB2BF",
-        "menu.border": "#505050",
+        "//": "Menu is used for the popup menu",
+        "menu.background": "#444040",
+        "menu.foreground": "#d9d7ca",
+        "menu.border": "#d9d7ca",
 
-        "contextMenu.background": "#282C34",
+
+        "//": "Context menu is used for completion, refactoring",
+        "//": "Pink test #ed73ec",
+        "contextMenu.background": "#ed73ec",
         "contextMenu.foreground": "#ABB2BF",
         "contextMenu.border": "#505050",
         "contextMenu.highlight": "#3F4652",
 
+        "//": "Pink test #ed73ec",
         "sidebar.background": "#ed73ec",
         "sidebar.foreground": "#ABB2BF",
         "sidebar.active.background": "#282C34",
         "sidebar.selection.border": "#61afef",
 
+        "//": "Pink test #ed73ec",
         "statusBar.background": "#ed73ec",
         "statusBar.foreground": "#c8c8c8",
 
@@ -56,6 +64,24 @@
         "highlight.mode.operator.foreground": "#282c34",
 
         "highlight.mode.visual.background": "#56b6c2",
-        "highlight.mode.visual.foreground": "#282c34"
+        "highlight.mode.visual.foreground": "#282c34",
+
+        "//": "User coloring options for the hover menu",
+        "editor.hover.title.background": "#444040",
+        "editor.hover.title.foreground": "#d9d7ca",
+        "editor.hover.border": "#56b6c2",
+        "editor.hover.contents.background": "#444040",
+        "editor.hover.contents.foreground": "#d9d7ca",
+        "editor.hover.contents.codeblock.background": "#444040",
+        "editor.hover.contents.codeblock.foreground": "#d9d7ca",
+
+        "//": "Pink test #ed73ec",
+        "fileExplorer.background": "#ed73ec",
+        "fileExplorer.foreground": "#d9d7ca",
+        "fileExplorer.selection.background": "#ed73ec",
+        "fileExplorer.selection.foreground": "#d9d7ca",
+        "fileExplorer.cursor.background": "#ed73ec",
+        "fileExplorer.cursor.foreground": "#d9d7ca"
+
     }
 }
